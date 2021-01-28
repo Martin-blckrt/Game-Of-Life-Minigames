@@ -1,0 +1,10 @@
+Martin:80
+Thibaud:50
+Benjam:60
+Max:15
+Clement:8
+Thomas:9
+Denis:42
+Eloise:64
+Alex:26
+Cecile:31
